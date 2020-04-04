@@ -9,6 +9,9 @@ Monolith Decomposition Patterns • Sam Newman
 How to Become a Great Software Architect • Eberhard Wolff
 * https://youtu.be/v_nhv6aY1Kg
 
+Not Just Events: Developing Asynchronous Microservices • Chris Richardson
+* https://youtu.be/kyNL7yCvQQc
+
 ----
 
 * https://www.youtube.com/user/GotoConferences/videos
