@@ -12,3 +12,31 @@ GOTO 2018 • Old Is the New New • Kevlin Henney
 
 Lambda? You Keep Using that Letter - Kevlin Henney
 * https://youtu.be/Y7StjYhXvpE
+
+Refactoring to Immutability - Kevlin Henney
+* https://youtu.be/APUCMSPiNh4
+
+Kevlin Henney - Functional C++
+* https://youtu.be/CIg6eyJv4dk
+
+A system is not a tree - Kevlin Henney
+* https://youtu.be/ARkLVvtxUZI
+
+Talking Architecture With Kevlin Henney
+* https://youtu.be/Y6B4jYBR4Y8
+
+The Forgotten Art of Structured Programming - Kevlin Henney [C++ on Sea 2019]
+* https://youtu.be/SFv8Wm2HdNM
+
+'Declarative Thinking, Declarative Practice' - Kevlin Henney [ ACCU 2016 ]
+* https://youtu.be/nrVIlhtoE3Y
+* https://youtu.be/NSzsYWckGd4
+
+Thinking Outside the Synchronisation Quadrant - Kevlin Henney
+* https://youtu.be/2yXtZ8x7TXw
+
+Agility ≠ Speed - Kevlin Henney
+* https://youtu.be/kmFcNyZrUNM
+
+🚀 DevTernity 2019: Kevlin Henney - Lean Code
+https://youtu.be/-nWhH-4wWBU
