@@ -40,3 +40,6 @@ Agility ≠ Speed - Kevlin Henney
 
 🚀 DevTernity 2019: Kevlin Henney - Lean Code
 * https://youtu.be/-nWhH-4wWBU
+
+Beauty in Code 2018, 4 of 7 — Kevlin Henney: "1968"
+* https://youtu.be/KjgvffBlWAg
