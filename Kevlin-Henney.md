@@ -46,3 +46,6 @@ Beauty in Code 2018, 4 of 7 — Kevlin Henney: "1968"
 
 Kevlin Henney - Lean Code
 * https://youtu.be/fc4kno94N2c
+
+WJUG #261 - Kevlin Henney - Structure and Interpretation of Test Cases
+* https://youtu.be/Qhz7cQQVBv4
