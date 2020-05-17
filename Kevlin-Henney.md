@@ -49,3 +49,6 @@ Kevlin Henney - Lean Code
 
 WJUG #261 - Kevlin Henney - Structure and Interpretation of Test Cases
 * https://youtu.be/Qhz7cQQVBv4
+
+Kevlin Henney - Full Stack Development
+* https://youtu.be/USRCAGCu6mE
