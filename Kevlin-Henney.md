@@ -52,3 +52,6 @@ WJUG #261 - Kevlin Henney - Structure and Interpretation of Test Cases
 
 Kevlin Henney - Full Stack Development
 * https://youtu.be/USRCAGCu6mE
+
+#2 e-Meetup | Kevlin Henney - “Messing with Time"
+* https://youtu.be/nVTZ-VEkRuo
