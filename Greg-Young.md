@@ -22,3 +22,5 @@ Greg Young - The Long Sad History of MicroServices TM
 Greg Young — A Decade of DDD, CQRS, Event Sourcing
 * https://youtu.be/LDW0QWie21s
 
+Greg Young - CQRS and Event Sourcing - Code on the Beach 2014
+* https://youtu.be/JHGkaShoyNs
