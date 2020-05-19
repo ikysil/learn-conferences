@@ -55,3 +55,7 @@ Kevlin Henney - Full Stack Development
 
 #2 e-Meetup | Kevlin Henney - “Messing with Time"
 * https://youtu.be/nVTZ-VEkRuo
+
+Kevlin Henney Slicing Design Over Time
+* https://youtu.be/FOtoHHf7m8c
+
