@@ -59,3 +59,5 @@ Kevlin Henney - Full Stack Development
 Kevlin Henney Slicing Design Over Time
 * https://youtu.be/FOtoHHf7m8c
 
+GOTO 2016 • Small Is Beautiful • Kevlin Henney
+* https://youtu.be/B3b4tremI5o
