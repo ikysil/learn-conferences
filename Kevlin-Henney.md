@@ -61,3 +61,6 @@ Kevlin Henney Slicing Design Over Time
 
 GOTO 2016 • Small Is Beautiful • Kevlin Henney
 * https://youtu.be/B3b4tremI5o
+
+GOTO 2017 • Code as Risk • Kevlin Henney
+* https://youtu.be/YyhfK-aBo-Y
