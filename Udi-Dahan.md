@@ -6,3 +6,6 @@ Own the future - Udi Dahan
 
 Microservices and Rules Engines – a blast from the past - Udi Dahan
 * https://youtu.be/Fuac__g928E
+
+Finding Service Boundaries – illustrated in healthcare by Udi Dahan
+* https://vimeo.com/113515335
