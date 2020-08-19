@@ -9,3 +9,6 @@ Microservices and Rules Engines – a blast from the past - Udi Dahan
 
 Finding Service Boundaries – illustrated in healthcare by Udi Dahan
 * https://vimeo.com/113515335
+
+Udi Dahan - If (domain logic) then CQRS, or Saga?
+* https://youtu.be/fWU8ZK0Dmxs
