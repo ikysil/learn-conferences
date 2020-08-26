@@ -12,3 +12,6 @@ Finding Service Boundaries – illustrated in healthcare by Udi Dahan
 
 Udi Dahan - If (domain logic) then CQRS, or Saga?
 * https://youtu.be/fWU8ZK0Dmxs
+
+Autonomous microservices don't share data. Period - Dennis van der Stelt
+* https://youtu.be/0TYbHVc2yWI
