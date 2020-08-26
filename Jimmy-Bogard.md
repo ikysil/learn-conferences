@@ -9,3 +9,12 @@ Effective Microservice Communication and Conversation Patterns - Jimmy Bogard
 
 Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard
 * https://youtu.be/AUrKofVRHV4
+
+Six Little Lines of Fail - Jimmy Bogard
+* https://youtu.be/VvUdvte1V3s
+
+Vertical Slice Architecture - Jimmy Bogard
+* https://youtu.be/SUiWfhAhgQw
+
+DevTernity 2019: Jimmy Bogard – Vertical Slice Architecture
+* https://youtu.be/T6nglsEDaqA
