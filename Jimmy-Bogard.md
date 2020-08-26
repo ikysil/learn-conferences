@@ -6,3 +6,6 @@ Compositional UIs - the Microservices Last Mile - Jimmy Bogard
 
 Effective Microservice Communication and Conversation Patterns - Jimmy Bogard
 * https://youtu.be/aHsVsbo_VOE
+
+Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard
+* https://youtu.be/AUrKofVRHV4
