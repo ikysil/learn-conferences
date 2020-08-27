@@ -3,3 +3,6 @@ Eric Evans - Keynote: DDD Isn't Done: A Skeptical, Optimistic, Pragmatic Look
 
 DDD and Microservices: At Last, Some Boundaries!
 * https://youtu.be/sFCgXH7DwxM
+
+What is DDD - Eric Evans - DDD Europe 2019
+* https://youtu.be/pMuiVlnGqjk
