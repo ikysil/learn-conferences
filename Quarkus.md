@@ -6,3 +6,6 @@ Quarkus and Panache ORM
 
 Quarkus from inside | Peter Palaga
 * https://youtu.be/7jmLKIhkkIE
+
+Kafka Streams with Quarkus
+* https://youtu.be/qDThVyuAMMk
