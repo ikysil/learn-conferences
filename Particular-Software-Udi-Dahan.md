@@ -15,3 +15,6 @@ Udi Dahan - If (domain logic) then CQRS, or Saga?
 
 Autonomous microservices don't share data. Period - Dennis van der Stelt
 * https://youtu.be/0TYbHVc2yWI
+
+Udi Dahan Intentions and Interfaces Making Patterns Complete
+* https://youtu.be/V82b1VBh2so
