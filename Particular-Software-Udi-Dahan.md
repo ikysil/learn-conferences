@@ -4,6 +4,9 @@ Avoid a Failed SOA: Business & Autonomous Components to the Rescue
 Own the future - Udi Dahan
 * https://youtu.be/2iYdKQXGY2E
 
+Own the future, NSB-style - Udi Dahan
+* https://youtu.be/CCX8Sox6BNQ
+
 Microservices and Rules Engines – a blast from the past - Udi Dahan
 * https://youtu.be/Fuac__g928E
 
