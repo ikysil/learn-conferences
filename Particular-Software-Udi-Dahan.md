@@ -21,3 +21,6 @@ Autonomous microservices don't share data. Period - Dennis van der Stelt
 
 Udi Dahan Intentions and Interfaces Making Patterns Complete
 * https://youtu.be/V82b1VBh2so
+
+Integration lessons for the green-field developer | Udi Dahan at DDD Sydney 2016
+* https://youtu.be/AXU4-VlAAcg
