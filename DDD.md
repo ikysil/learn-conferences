@@ -19,3 +19,6 @@ Domain-Driven Design with Relational Databases Using Spring Data JDBC
 
 Is Domain-Driven Design more than Entities and Repositories? - Jimmy Nilsson
 * https://vimeo.com/12665573
+
+Interview with Eric Evans, Udi Dahan and Diego Vega
+* https://vimeo.com/32647895
