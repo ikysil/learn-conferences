@@ -18,3 +18,9 @@ Vertical Slice Architecture - Jimmy Bogard
 
 DevTernity 2019: Jimmy Bogard – Vertical Slice Architecture
 * https://youtu.be/T6nglsEDaqA
+
+Domain-Driven Refactoring - Jimmy Bogard - NDC Oslo 2020
+* https://youtu.be/_dQRAsVhCqA
+
+Domain Driven Design: The Good Parts - Jimmy Bogard
+* https://youtu.be/U6CeaA-Phqo
