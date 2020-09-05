@@ -14,3 +14,5 @@ Building microservices with event sourcing and CQRS
 DDD & REST - Domain Driven APIs for the web - Oliver Gierke
 * https://youtu.be/NdZqeAAIHzc
 
+Domain-Driven Design with Relational Databases Using Spring Data JDBC
+* https://youtu.be/GOSW911Ox6s
