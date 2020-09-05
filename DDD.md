@@ -3,3 +3,7 @@ Domain-Driven Design: Hidden Lessons from the Big Blue Book - Nick Tune
 
 How to rewrite, a bit at a time - Sabrina Leandro - DDD Europe 2019
 * https://youtu.be/AmicHHpogEg
+
+Practical DDD: Bounded Contexts + Events = Microservices
+* https://youtu.be/Ab5-ebHja3o
+* Video with transcript included: http://bit.ly/2nK3xbJ
