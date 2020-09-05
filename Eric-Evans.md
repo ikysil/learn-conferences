@@ -6,3 +6,6 @@ DDD and Microservices: At Last, Some Boundaries!
 
 What is DDD - Eric Evans - DDD Europe 2019
 * https://youtu.be/pMuiVlnGqjk
+
+Strategic Design - Eric Evans
+* https://vimeo.com/12674642
