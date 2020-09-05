@@ -16,3 +16,6 @@ DDD & REST - Domain Driven APIs for the web - Oliver Gierke
 
 Domain-Driven Design with Relational Databases Using Spring Data JDBC
 * https://youtu.be/GOSW911Ox6s
+
+Is Domain-Driven Design more than Entities and Repositories? - Jimmy Nilsson
+* https://vimeo.com/12665573
