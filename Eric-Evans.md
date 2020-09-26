@@ -9,3 +9,6 @@ What is DDD - Eric Evans - DDD Europe 2019
 
 Strategic Design - Eric Evans
 * https://vimeo.com/12674642
+
+Modelling Time - Eric Evans - DDD Europe 2018
+* https://youtu.be/T29WzvaPNc8
