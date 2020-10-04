@@ -22,3 +22,9 @@ Is Domain-Driven Design more than Entities and Repositories? - Jimmy Nilsson
 
 Interview with Eric Evans, Udi Dahan and Diego Vega
 * https://vimeo.com/32647895
+
+Event Sourcing: Traceability, Consistency, Correctness - Thomas Bøgh Fangel - DDD Europe 2020
+* https://youtu.be/Q-RGrWTN5M4
+
+Functional Event Sourcing - Jérémie Chassaing - DDD Europe 2020
+* https://youtu.be/KMTyeOKwiSo
