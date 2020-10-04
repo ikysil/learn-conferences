@@ -64,3 +64,9 @@ GOTO 2016 • Small Is Beautiful • Kevlin Henney
 
 GOTO 2017 • Code as Risk • Kevlin Henney
 * https://youtu.be/YyhfK-aBo-Y
+
+Move Slow and Mend Things by Kevlin Henney
+* https://youtu.be/1kklyq4XYpw
+
+Kevlin Henney at Codecamp_The One with Architecture&Design: Unreasonable Architecture
+* https://youtu.be/Qli_IHjB1bg
