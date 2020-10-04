@@ -70,3 +70,6 @@ Move Slow and Mend Things by Kevlin Henney
 
 Kevlin Henney at Codecamp_The One with Architecture&Design: Unreasonable Architecture
 * https://youtu.be/Qli_IHjB1bg
+
+Keynote: Cool Code by Kevlin Henney
+* https://youtu.be/BcArhMDxYg4
