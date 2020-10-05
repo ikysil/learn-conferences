@@ -27,3 +27,15 @@ Integration lessons for the green-field developer | Udi Dahan at DDD Sydney 2016
 
 Keynote - Udi Daham - DDD Europe 2020 - Event Sourcing
 * https://youtu.be/-iuMjjKQnhg
+* NOT an Event Sourcing problems:
+  * Notifications
+  * Data Synchronization
+  * DB Replication
+  * Graph Databases
+  * Time Series Databases
+* Event Sourcing Problems
+  * Bi-Temporal Data
+  * Code as Data (business rules effective at point of time)
+* Event Sourcing is for building instrastructure
+
+  
