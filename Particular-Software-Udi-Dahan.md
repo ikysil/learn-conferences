@@ -24,3 +24,6 @@ Udi Dahan Intentions and Interfaces Making Patterns Complete
 
 Integration lessons for the green-field developer | Udi Dahan at DDD Sydney 2016
 * https://youtu.be/AXU4-VlAAcg
+
+Keynote - Udi Daham - DDD Europe 2020 - Event Sourcing
+* https://youtu.be/-iuMjjKQnhg
