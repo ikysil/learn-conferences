@@ -28,3 +28,6 @@ Event Sourcing: Traceability, Consistency, Correctness - Thomas Bøgh Fangel - D
 
 Functional Event Sourcing - Jérémie Chassaing - DDD Europe 2020
 * https://youtu.be/KMTyeOKwiSo
+
+Capability Mapping - Ian Cooper
+* https://youtu.be/JBSIdlWJcSU
