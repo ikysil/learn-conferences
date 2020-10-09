@@ -15,6 +15,7 @@ Micro Frontend Architecture Building an Extensible UI Platform by Erik Grijzen
 
 Micro Frontends – a strive for fully verticalized systems - David Leitner
 * https://youtu.be/TQoABqkPkAE
+* https://youtu.be/BdogUPEC27w
 
 Micro-Frontends – Matthias Laug
 * https://youtu.be/Bnmy5zMY14s
@@ -44,3 +45,32 @@ What are Microfrontends?
 * https://youtu.be/3EUfbnHi6Wg
 * https://github.com/single-spa/single-spa-inspector
 * https://single-spa.js.org/docs/configuration
+
+Deploying Microfrontends Part 1 - Import Map Deployer
+* https://youtu.be/QHunH3MFPZs
+
+Deploying Microfrontends Part 2 - CI for in-browser modules
+* https://youtu.be/nC7rpDXa4B8
+
+Single-spa Tutorial - Lazy Loading
+* https://youtu.be/-LkvBMpCK-A
+
+Single-spa / Microfrontends: using bundlers, Webpack, and Rollup
+* https://youtu.be/I6COIg-2lyM
+
+Converting a create-react-app (CRA) project to single-spa
+* https://youtu.be/W8oaySHuj3Y
+* https://single-spa.js.org/docs/ecosystem-angular
+
+SPAs are dead. Long live Microfrontends
+* https://youtu.be/4c9XFMJ2FQ4
+
+Patterns for Micro Frontends - ThoughtWorks Talks Tech
+* https://youtu.be/tcQ1nWdb7iw
+
+Micro Frontend using Angular Elements
+* https://youtu.be/oqle07Ifyoc
+
+The Key to Scaling Single Page Applications, Micro Frontends | Webinar Presentation + Demo
+* https://youtu.be/ZkHp_qbaCok
+* https://github.com/rangle/mibank-micro-frontends
