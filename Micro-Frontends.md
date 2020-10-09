@@ -1,3 +1,6 @@
+Micro-frontends in context When—and why—should developers consider this newer, smaller frontend architecture pattern?
+* https://increment.com/frontend/micro-frontends-in-context/
+
 Michael Geers - Micro Frontends - The Nitty Gritty Details or Frontend, Backend, 🌈 Happyend
 * https://youtu.be/wCHYILvM7kU
 
