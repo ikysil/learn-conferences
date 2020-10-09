@@ -1,6 +1,9 @@
 Michael Geers - Micro Frontends - The Nitty Gritty Details or Frontend, Backend, 🌈 Happyend
 * https://youtu.be/wCHYILvM7kU
 
+Michael Geers - Micro Frontends: Break Up You Web App!
+* https://youtu.be/o1Sr39DVdOQ
+
 Liron Cohen - Micro-frontends: Is it a Silver Bullet? | React Next 2019
 * https://youtu.be/asqgKaUMXq0
 
