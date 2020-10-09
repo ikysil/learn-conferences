@@ -33,3 +33,14 @@ Web Components & Micro Apps: Angular, React & Vue peacefully united?
 * https://github.com/manfredsteyer/Angular_MicroApps_Different_Technologies
 * https://www.softwarearchitekt.at/aktuelles/micro-apps-with-web-components-using-angular-elements/
 * https://www.angulararchitects.io/konferenzen/keynote-angular-react-vue-and-co-peacefully-united-thanks-to-web-components-and-micro-apps/
+
+Micro Frontends using Single SPA
+* https://youtu.be/wU06eTMQ6yI
+
+Microfrontends with single-spa
+* https://youtu.be/5Gqxs_o97tE
+
+What are Microfrontends?
+* https://youtu.be/3EUfbnHi6Wg
+* https://github.com/single-spa/single-spa-inspector
+* https://single-spa.js.org/docs/configuration
