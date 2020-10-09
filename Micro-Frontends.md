@@ -123,3 +123,6 @@ Building Our Own Open-Source HTTP Routing Solution
 
 From Jimmy to Microservices: Rebuilding Zalando’s Fashion Store
 * https://tech.zalando.de/blog/from-jimmy-to-microservices-rebuilding-zalandos-fashion-store
+
+Project Mosaic | Microservices for the Frontend
+* https://www.mosaic9.org/
