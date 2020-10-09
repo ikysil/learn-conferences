@@ -77,3 +77,6 @@ Micro Frontend using Angular Elements
 The Key to Scaling Single Page Applications, Micro Frontends | Webinar Presentation + Demo
 * https://youtu.be/ZkHp_qbaCok
 * https://github.com/rangle/mibank-micro-frontends
+
+A Micro Frontends Future: Using Angular with React and Vue in Enterprise apps
+* https://youtu.be/yPniBH5sjA4
