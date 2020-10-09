@@ -126,3 +126,6 @@ From Jimmy to Microservices: Rebuilding Zalando’s Fashion Store
 
 Project Mosaic | Microservices for the Frontend
 * https://www.mosaic9.org/
+
+Front-End Micro Services
+* https://engineering.zalando.com/posts/2018/12/front-end-micro-services.html
