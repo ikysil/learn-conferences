@@ -89,3 +89,37 @@ The Key to Scaling Single Page Applications, Micro Frontends | Webinar Presentat
 
 A Micro Frontends Future: Using Angular with React and Vue in Enterprise apps
 * https://youtu.be/yPniBH5sjA4
+
+The Recipe For Scalable Frontends (Zalando)
+* https://youtu.be/m32EdvitXy4
+
+Talking Tech Podcast about Mosaic [GER]
+* https://talking-tech.io/episode-12/
+
+The frontend taboo: a story of full stack microservices
+* https://www.youtube.com/watch?v=E0s3EGCefB0
+* https://gotocon.com/berlin-2016/presentations/show_talk.jsp?oid=8019
+
+Open Source And The Mosaic Project
+* https://www.youtube.com/watch?v=pSlxIh6BHN4
+
+The frontend taboo - a story of full stack microservices
+* http://www.slideshare.net/lmineiro/the-frontend-taboo-a-story-of-full-stack-microservices
+
+Better streaming layouts for front-end microservices with Tailor
+* https://www.oreilly.com/ideas/better-streaming-layouts-for-frontend-microservices-with-tailor
+
+Frontend in the Microservices World
+* https://speakerdeck.com/d_kubyshkin/frontend-microservices
+
+Building a Reactive RESTful API with Akka HTTP and Slick
+* https://www.youtube.com/watch?v=g-s46Ewh-zo
+
+From Monolith to Microservices
+* https://www.youtube.com/watch?v=I9zpROdDf48
+
+Building Our Own Open-Source HTTP Routing Solution
+* https://tech.zalando.de/blog/building-our-own-open-source-http-routing-solution
+
+From Jimmy to Microservices: Rebuilding Zalando’s Fashion Store
+* https://tech.zalando.de/blog/from-jimmy-to-microservices-rebuilding-zalandos-fashion-store
