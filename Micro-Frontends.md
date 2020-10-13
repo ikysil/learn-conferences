@@ -129,3 +129,6 @@ Project Mosaic | Microservices for the Frontend
 
 Front-End Micro Services
 * https://engineering.zalando.com/posts/2018/12/front-end-micro-services.html
+
+6 Patterns for Microfrontends
+* https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0
