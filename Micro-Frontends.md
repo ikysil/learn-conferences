@@ -80,6 +80,9 @@ SPAs are dead. Long live Microfrontends
 Patterns for Micro Frontends - ThoughtWorks Talks Tech
 * https://youtu.be/tcQ1nWdb7iw
 
+code.talks 2019 - Patterns for micro frontends
+* https://youtu.be/A3n1n5QRmF0
+
 Micro Frontend using Angular Elements
 * https://youtu.be/oqle07Ifyoc
 
