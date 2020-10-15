@@ -9,3 +9,12 @@ Neal Ford - Building Evolutionary Architectures
 
 YOW! Night 2018 - Neal Ford - Stories Every Developer Should Know
 * https://youtu.be/d38VVZqSylU
+
+Functional Thinking with Neal Ford
+* https://youtu.be/JeK979aqqqc
+
+YOW! Conference 2018 - Neal Ford - Building Evolutionary Architectures
+* https://youtu.be/-Z_Va9iWo0I
+
+Neal Ford at Codecamp_The One with Architecture&Design on Architecture Foundations: Styles&Patterns
+* https://youtu.be/Xafgk13JJoA
