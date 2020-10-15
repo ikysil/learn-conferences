@@ -135,3 +135,6 @@ Front-End Micro Services
 
 6 Patterns for Microfrontends
 * https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0
+
+microXchg 2018 - Micro Frontends - breaking down the last monolith - Matthias Laug
+* https://youtu.be/rCxj-ONZmxs
