@@ -33,4 +33,14 @@ http://udidahan.com/2009/06/07/the-fallacy-of-reuse/
 # Evaluating a Service-Oriented Architecture 
 
 Evaluating a Service-Oriented Architecture 
-http://www.sei.cmu.edu/reports/07tr015.pdf
+* http://www.sei.cmu.edu/reports/07tr015.pdf
+
+# Service granularity in SOA-projects : a trade-off analysis
+
+Service granularity in SOA-projects : a trade-off analysis
+* http://essay.utwente.nl/57339/
+
+# Considerations for Successful Reuse in Systems Engineering
+
+Considerations for Successful Reuse in Systems Engineering
+* http://cosysmo.scripts.mit.edu/wp-content/uploads/2010/01/Fortune-Valerdi-Reuse.pdf
