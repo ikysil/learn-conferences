@@ -138,3 +138,9 @@ Front-End Micro Services
 
 microXchg 2018 - Micro Frontends - breaking down the last monolith - Matthias Laug
 * https://youtu.be/rCxj-ONZmxs
+
+microXchg 2018 - Break Up With Your Frontend Monolith - Elisabeth Engel
+* https://youtu.be/7MHsPfoonqs
+
+Micro frontends: extending service-oriented architecture to frontend development - Jakub Sowiński
+* https://youtu.be/Il9O2vchlRg
