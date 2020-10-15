@@ -44,3 +44,14 @@ Service granularity in SOA-projects : a trade-off analysis
 
 Considerations for Successful Reuse in Systems Engineering
 * http://cosysmo.scripts.mit.edu/wp-content/uploads/2010/01/Fortune-Valerdi-Reuse.pdf
+
+# A Taxonomy of Decomposition Strategies Based on Structures, Behaviors, and Goals
+
+A Taxonomy of Decomposition Strategies Based on Structures, Behaviors, and Goals
+* https://users.ece.cmu.edu/~koopman/decomp/decomp.html
+
+# Temporal and Behavioural Coupling
+
+Temporal and Behavioural Coupling
+* http://iansrobinson.com/2009/04/27/temporal-and-behavioural-coupling/
+* http://iansrobinson.com/blog/wp-content/uploads/2009/04/temporal-and-behavioural-coupling.png
