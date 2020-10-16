@@ -144,3 +144,6 @@ microXchg 2018 - Break Up With Your Frontend Monolith - Elisabeth Engel
 
 Micro frontends: extending service-oriented architecture to frontend development - Jakub Sowiński
 * https://youtu.be/Il9O2vchlRg
+
+microXchg 2016 - Stefan Tilkov : Wait, what!? Our microservices have actual human users?
+* https://youtu.be/pU1gXA0rfwc
