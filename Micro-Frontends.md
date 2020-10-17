@@ -151,5 +151,3 @@ microXchg 2016 - Stefan Tilkov : Wait, what!? Our microservices have actual huma
 MICROSERVICE WEBSITES
 * https://youtu.be/4KVOuQDIfmw
 
-The Key to Scaling Single Page Applications, Micro Frontends | Webinar Presentation + Demo
-* https://youtu.be/ZkHp_qbaCok
