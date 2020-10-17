@@ -147,3 +147,9 @@ Micro frontends: extending service-oriented architecture to frontend development
 
 microXchg 2016 - Stefan Tilkov : Wait, what!? Our microservices have actual human users?
 * https://youtu.be/pU1gXA0rfwc
+
+MICROSERVICE WEBSITES
+* https://youtu.be/4KVOuQDIfmw
+
+The Key to Scaling Single Page Applications, Micro Frontends | Webinar Presentation + Demo
+* https://youtu.be/ZkHp_qbaCok
