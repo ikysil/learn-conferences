@@ -154,3 +154,5 @@ microXchg 2016 - Stefan Tilkov : Wait, what!? Our microservices have actual huma
 MICROSERVICE WEBSITES
 * https://youtu.be/4KVOuQDIfmw
 
+Custom Elements and Micro Frontends
+* https://www.youtube.com/playlist?list=PLNqp92_EXZBIjRHstP4tzzIAT3XjJ1kmr
