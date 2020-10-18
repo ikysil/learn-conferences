@@ -17,3 +17,6 @@ Architecture decision record (ADR)
 
 DOCUMENTING ARCHITECTURE DECISIONS - Michael Nygard
 * https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html
+
+Homepage of the ADR GitHub organization
+* https://adr.github.io/
