@@ -20,3 +20,6 @@ DOCUMENTING ARCHITECTURE DECISIONS - Michael Nygard
 
 Homepage of the ADR GitHub organization
 * https://adr.github.io/
+
+Communicating and documenting architectural decisions - David Ayers | #LeadDevNewYork
+* https://youtu.be/rwfXkSjFhzc
