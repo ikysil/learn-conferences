@@ -143,6 +143,7 @@ microXchg 2018 - Break Up With Your Frontend Monolith - Elisabeth Engel
 * https://youtu.be/7MHsPfoonqs
 * https://youtu.be/W3_8sxUurzA
 * https://slides.com/elisabethengel/micro-frontends/
+* https://www.youtube.com/playlist?list=PLI1AtZo9B3YL_xpi19IuxFcTuCi2_thQT
 
 Micro frontends: extending service-oriented architecture to frontend development - Jakub Sowiński
 * https://youtu.be/Il9O2vchlRg
