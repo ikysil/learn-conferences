@@ -26,3 +26,6 @@ Communicating and documenting architectural decisions - David Ayers | #LeadDevNe
 
 Architecture Decision Records - Ralph Depping
 * https://youtu.be/bAsmRHThFTI
+
+Using Architecture Decision Records – Jonathan Wolski
+* https://youtu.be/MQJUWtTM1-E
