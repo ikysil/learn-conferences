@@ -23,3 +23,6 @@ Homepage of the ADR GitHub organization
 
 Communicating and documenting architectural decisions - David Ayers | #LeadDevNewYork
 * https://youtu.be/rwfXkSjFhzc
+
+Architecture Decision Records - Ralph Depping
+* https://youtu.be/bAsmRHThFTI
