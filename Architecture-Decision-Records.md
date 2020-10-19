@@ -29,3 +29,6 @@ Architecture Decision Records - Ralph Depping
 
 Using Architecture Decision Records – Jonathan Wolski
 * https://youtu.be/MQJUWtTM1-E
+
+Lesson 55 - Architecture Decision Records
+* https://youtu.be/LMBqGPLvonU
