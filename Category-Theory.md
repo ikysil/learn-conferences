@@ -9,3 +9,6 @@ From design patterns to category theory by Mark Seemann
 
 Category Theory for Programmers by Bartosz Milewski
 * https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+
+Awesome Functional Programming
+* https://github.com/marc0der/awesome-functional-programming
