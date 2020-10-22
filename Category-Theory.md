@@ -3,3 +3,6 @@ Bartosz Milewski - Truth about Types (Lambda Days 2016)
 
 F(by) 2017. Bartosz Milewski - A Crash Course in Category Theory.
 * https://youtu.be/iJ7V1KXJpsE
+
+From design patterns to category theory by Mark Seemann
+* https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
