@@ -32,3 +32,6 @@ Using Architecture Decision Records – Jonathan Wolski
 
 Lesson 55 - Architecture Decision Records
 * https://youtu.be/LMBqGPLvonU
+
+Architecture Decision Records Workshop, with Michael Keeling
+* https://youtu.be/Hq7MPXbJzU0
