@@ -9,3 +9,6 @@ GOTO 2014 • REST: I don't Think it Means What You Think it Does • Stefan Til
 
 microXchg 2018 - Microservice Patterns & Antipatterns - Stefan Tilkov
 * https://youtu.be/RsyOkifmamI
+
+Stefan Tilkov - Why software architects fail – and what to do about it
+* https://youtu.be/AkYDsiRVqno
