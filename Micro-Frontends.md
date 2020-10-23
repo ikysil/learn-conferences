@@ -156,3 +156,6 @@ MICROSERVICE WEBSITES
 
 Custom Elements and Micro Frontends
 * https://www.youtube.com/playlist?list=PLNqp92_EXZBIjRHstP4tzzIAT3XjJ1kmr
+* https://github.com/jherr/single-spa-pdp
+* https://module-federation.github.io/
+* https://dev.to/marais/webpack-5-and-module-federation-4j1i
