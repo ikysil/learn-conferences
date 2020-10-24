@@ -35,3 +35,4 @@ Lesson 55 - Architecture Decision Records
 
 Architecture Decision Records Workshop, with Michael Keeling
 * https://youtu.be/Hq7MPXbJzU0
+* https://www.slideshare.net/mkeeling5000/getting-started-with-architecture-decision-records
