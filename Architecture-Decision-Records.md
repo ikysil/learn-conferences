@@ -1,3 +1,6 @@
+SATURN 2019 Talk: Creating, Reviewing, and Succeeding with Architectural Decision Records
+* https://youtu.be/LFiTwqblqsk
+
 SATURN 2017 Talk: Architecture Decision Records in Action
 * https://youtu.be/41NVge3_cYo
 * https://resources.sei.cmu.edu/asset_files/Presentation/2017_017_001_497746.pdf
