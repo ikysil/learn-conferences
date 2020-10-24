@@ -36,4 +36,7 @@ Lesson 55 - Architecture Decision Records
 Architecture Decision Records Workshop, with Michael Keeling
 * https://youtu.be/Hq7MPXbJzU0
 * https://www.slideshare.net/mkeeling5000/getting-started-with-architecture-decision-records
+
+Share the Load: Distribute Design Authority with Architecture Decision Records
 * https://agile2018.sched.com/event/EUBj/share-the-load-distributing-design-authority-with-lightweight-decision-records-michael-keeling-joe-runde
+* https://www.agilealliance.org/resources/experience-reports/distribute-design-authority-with-architecture-decision-records/
