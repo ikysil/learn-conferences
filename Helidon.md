@@ -12,3 +12,6 @@ Helidon: Java Libraries for Writing Microservices
 
 Building Microservices with Project Helidon: Oracle’s New Java Framework
 * https://youtu.be/Xnl95j18hgg
+
+From Zero to Hello - Helidon MP / MicroProfile
+* https://youtu.be/BG2IB-1T1dk
