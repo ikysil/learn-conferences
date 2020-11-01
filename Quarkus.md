@@ -9,3 +9,6 @@ Quarkus from inside | Peter Palaga
 
 Kafka Streams with Quarkus
 * https://youtu.be/qDThVyuAMMk
+
+Playlist by Adam Bien
+* https://www.youtube.com/playlist?list=PLxU9yM-_yPs8ZONEulxaoY2_Wks8UGFV5
