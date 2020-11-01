@@ -4,6 +4,9 @@ Helidon Demo - Thomas Langer | Jakarta EE @ J4K
 Helidon - a set of Java Libraries for developing microservices - Dmitry Kornilov - Jakarta EE @ J4K
 * https://youtu.be/KqO4b56JPEs
 
+Helidon MP Demo, August 2020
+* https://youtu.be/gdXdmRwW_qI
+
 airhacks.fm #112 Java SE, MicroProfile and GraalVM: the Helidon's Way
 * https://airhacks.fm/#episode_112
 
