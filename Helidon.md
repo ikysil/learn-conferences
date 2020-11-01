@@ -9,3 +9,6 @@ helidon with netbeans: the developer experience
 
 Helidon: Java Libraries for Writing Microservices
 * https://youtu.be/SDI6ci2XsCQ
+
+Building Microservices with Project Helidon: Oracle’s New Java Framework
+* https://youtu.be/Xnl95j18hgg
