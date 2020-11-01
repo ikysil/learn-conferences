@@ -6,3 +6,6 @@ airhacks.fm #112 Java SE, MicroProfile and GraalVM: the Helidon's Way
 
 helidon with netbeans: the developer experience
 * https://youtu.be/d4zy_cfC-6g
+
+Helidon: Java Libraries for Writing Microservices
+* https://youtu.be/SDI6ci2XsCQ
