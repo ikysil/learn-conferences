@@ -1,3 +1,6 @@
+Dmitry Kornilov in Osaka Japan: Building Cloud Native Services with Project Helidon
+* https://youtu.be/kg0bjJKxz3M
+
 Helidon - a set of Java Libraries for developing microservices - Dmitry Kornilov - Jakarta EE @ J4K
 * https://youtu.be/KqO4b56JPEs
 
