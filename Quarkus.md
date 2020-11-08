@@ -1,3 +1,6 @@
+MicroProfile REST Client Tests with Quarkus
+* https://youtu.be/RLkvFT537_4
+
 JDD Conf: Kickass Java Backends #slideless
 * https://youtu.be/OlHXnf-eKqU
 
