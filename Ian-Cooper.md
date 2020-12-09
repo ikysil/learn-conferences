@@ -1,5 +1,6 @@
 Ian Cooper - Event Driven Collaboration
 * https://youtu.be/Z9NtB7JMquY
+* https://github.com/iancooper/EventDrivenCollaboration
 
 Capability Mapping - Ian Cooper
 * https://youtu.be/6pjAjHm7l7s
