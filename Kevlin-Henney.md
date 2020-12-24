@@ -1,3 +1,6 @@
+GOTO 2020 • Software Is Details • Kevlin Henney
+* https://youtu.be/kX0prJklhUE
+
 Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks
 * https://youtu.be/FyCYva9DhsI
 
