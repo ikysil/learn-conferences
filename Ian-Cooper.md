@@ -1,3 +1,6 @@
+Ian Cooper on Hexagonal Architectures at Agile Yorkshire
+* https://youtu.be/FJUevNLEtuU
+
 DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong
 * https://youtu.be/EZ05e7EMOLM
 
