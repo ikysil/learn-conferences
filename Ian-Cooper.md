@@ -1,3 +1,6 @@
+DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong
+* https://youtu.be/EZ05e7EMOLM
+
 Ian Cooper - Event Driven Collaboration
 * https://youtu.be/Z9NtB7JMquY
 * https://github.com/iancooper/EventDrivenCollaboration
