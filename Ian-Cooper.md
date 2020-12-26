@@ -1,3 +1,10 @@
+https://github.com/iancooper/Presentations
+
+----
+
+DevTernity 2019: Ian Cooper – The Clean Architecture
+* https://youtu.be/SxJPQ5qXisw
+
 Ian Cooper on Hexagonal Architectures at Agile Yorkshire
 * https://youtu.be/FJUevNLEtuU
 
