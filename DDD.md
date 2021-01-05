@@ -1,6 +1,3 @@
-Domain Driven Design Through Onion Architecture
-* https://youtu.be/pL9XeNjy_z4
-
 Domain-Driven Design: Hidden Lessons from the Big Blue Book - Nick Tune
 * https://youtu.be/JvCyKxA5S0I
 
