@@ -9,3 +9,6 @@ Alistair in the "Hexagone" 2/3
 
 Alistair in the "Hexagone" 3/3
 * https://youtu.be/DAe0Bmcyt-4
+
+Domain Driven Design Through Onion Architecture
+* https://youtu.be/pL9XeNjy_z4
