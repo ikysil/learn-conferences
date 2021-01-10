@@ -1,3 +1,6 @@
+Onion Architecture with Entity Framework | Dev Superpowers Episode #13 | Brendan Richards
+* https://youtu.be/-_fgsbKyLq8
+
 Onion Architecture Without the Tears – Brendan Richards
 * https://youtu.be/R2pW09tMCnE
 
