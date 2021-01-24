@@ -1,3 +1,6 @@
+EventStorming: From big picture to software design - Cédric Pontet
+* https://youtu.be/QwOrbYTaDOY
+
 Mariusz Gil: Discovering unknown with Event Storming
 * https://youtu.be/Pl5HD8Ae3PU
 
