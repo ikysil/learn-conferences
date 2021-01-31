@@ -1,3 +1,6 @@
+SydPHP 2019 August :: Arne Blankerts :: Introduction to Event Storming
+* https://youtu.be/Wz_acWYFMRs
+
 EventStorming: From big picture to software design - Cédric Pontet
 * https://youtu.be/QwOrbYTaDOY
 
