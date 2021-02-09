@@ -1,3 +1,6 @@
+Webinar: Live Q&A with Udi Dahan
+* https://youtu.be/CDGykmW1xcE
+
 Avoid a Failed SOA: Business & Autonomous Components to the Rescue
 * https://www.infoq.com/presentations/SOA-Business-Autonomous-Components/
 
