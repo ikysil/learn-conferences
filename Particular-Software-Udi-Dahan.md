@@ -1,3 +1,6 @@
+How to avoid microservice pitfalls
+* https://youtu.be/gWek4y54VvU
+
 Webinar: Live Q&A with Udi Dahan
 * https://youtu.be/CDGykmW1xcE
 
