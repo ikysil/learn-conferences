@@ -1,5 +1,6 @@
 How to avoid microservice pitfalls
 * https://youtu.be/gWek4y54VvU
+* https://github.com/ClearMeasureLabs/cm-particular-webinar
 
 Webinar: Live Q&A with Udi Dahan
 * https://youtu.be/CDGykmW1xcE
