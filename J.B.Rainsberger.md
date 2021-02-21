@@ -12,6 +12,7 @@ Revolut Hall - J. B. RAINSBERGER - The Selfish Team Player
 
 🚀 DevTernity 2019: J.B. Rainsberger – The Well-Balanced Programmer
 * https://youtu.be/XhN6fJYG81A
+* https://youtu.be/CI_cg-qHJTQ
 
 2013.08.22 [ENG] J.B. Rainsberger - How to adopt TDD safely
 * https://youtu.be/DfTyldNARVU
