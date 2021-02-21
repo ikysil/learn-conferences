@@ -1,3 +1,6 @@
+The Definitive Guide to Mock Objects, with J.B. Rainsberger
+* https://youtu.be/1VMOH_uIVWE
+
 J. B. Rainsberger "Unlocking the Awesome Power of Refactoring" 2020/12/15
 * https://youtu.be/hGSde7whUyY
 
