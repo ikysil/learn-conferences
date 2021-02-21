@@ -1,3 +1,6 @@
+J. B. Rainsberger - The Next Decade of Agile Software Development
+* https://youtu.be/HIdRm-0OLDU
+
 Surviving Legacy Code with JB Rainsberger
 * https://youtu.be/d9ktOSUH63w
 
