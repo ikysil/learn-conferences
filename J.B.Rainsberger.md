@@ -1,3 +1,6 @@
+🚀 DevTernity 2019: J.B. Rainsberger – The Well-Balanced Programmer
+* https://youtu.be/XhN6fJYG81A
+
 2013.08.22 [ENG] J.B. Rainsberger - How to adopt TDD safely
 * https://youtu.be/DfTyldNARVU
 
