@@ -1,3 +1,6 @@
+J.B. Rainsberger - The Economics of Agile Software Development
+* https://youtu.be/pbG0Cqc-XhI
+
 "Three Great Opportunities from Legacy Code" by J.B. Rainsberger (@jbrains)
 * https://youtu.be/8e9a_b16e7o
 
