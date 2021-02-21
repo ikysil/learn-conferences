@@ -1,3 +1,6 @@
+Programming Is the Easy Part | J. B. Rainsberger
+* https://youtu.be/SbGiSH_8UGk
+
 🚀 DevTernity 2018: J.B. Rainsberger - The Economics of Software Design #devternity
 * https://youtu.be/TQ9rng6YFeY
 
