@@ -1,3 +1,6 @@
+7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development
+* https://youtu.be/WSes_PexXcA
+
 Revolut Hall - J. B. RAINSBERGER - The Selfish Team Player
 * https://youtu.be/UWRkCO6HTjE
 
