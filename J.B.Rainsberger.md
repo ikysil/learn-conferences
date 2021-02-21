@@ -1,3 +1,6 @@
+🚀 DevTernity 2018: J.B. Rainsberger - The Economics of Software Design #devternity
+* https://youtu.be/TQ9rng6YFeY
+
 J. B. Rainsberger: The Most Effective Thing That Programmers Learn From Me Isn't About Programming
 * https://youtu.be/gFxBxgs5h2w
 
