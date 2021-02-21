@@ -1,3 +1,6 @@
+2013.08.22 [ENG] J.B. Rainsberger - How to adopt TDD safely
+* https://youtu.be/DfTyldNARVU
+
 Programming Is the Easy Part | J. B. Rainsberger
 * https://youtu.be/SbGiSH_8UGk
 
