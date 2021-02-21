@@ -1,3 +1,6 @@
+DevLin2016 - J. B. Rainsberger - Surviving Legacy Code: Microtechniques
+* https://youtu.be/d3hzWX9FszU
+
 J.B. Rainsberger - The Economics of Agile Software Development
 * https://youtu.be/pbG0Cqc-XhI
 
