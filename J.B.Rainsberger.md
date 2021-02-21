@@ -1,3 +1,6 @@
+"Three Great Opportunities from Legacy Code" by J.B. Rainsberger (@jbrains)
+* https://youtu.be/8e9a_b16e7o
+
 7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development
 * https://youtu.be/WSes_PexXcA
 
