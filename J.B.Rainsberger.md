@@ -1,3 +1,6 @@
+J. B. Rainsberger: The Most Effective Thing That Programmers Learn From Me Isn't About Programming
+* https://youtu.be/gFxBxgs5h2w
+
 J. B. Rainsberger - The Next Decade of Agile Software Development
 * https://youtu.be/HIdRm-0OLDU
 
