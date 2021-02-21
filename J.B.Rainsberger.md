@@ -1,3 +1,6 @@
+152 - TDD w/ J. B. Rainsberger
+* https://youtu.be/d_RRJV7MjQ8
+
 DevLin2016 - J. B. Rainsberger - Surviving Legacy Code: Microtechniques
 * https://youtu.be/d3hzWX9FszU
 
