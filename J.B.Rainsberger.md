@@ -1,3 +1,6 @@
+J. B. Rainsberger "Unlocking the Awesome Power of Refactoring" 2020/12/15
+* https://youtu.be/hGSde7whUyY
+
 152 - TDD w/ J. B. Rainsberger
 * https://youtu.be/d_RRJV7MjQ8
 
