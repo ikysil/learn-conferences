@@ -1,3 +1,6 @@
+Revolut Hall - J. B. RAINSBERGER - The Selfish Team Player
+* https://youtu.be/UWRkCO6HTjE
+
 🚀 DevTernity 2019: J.B. Rainsberger – The Well-Balanced Programmer
 * https://youtu.be/XhN6fJYG81A
 
