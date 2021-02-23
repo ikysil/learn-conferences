@@ -1,3 +1,6 @@
+Robert C Martin - The Single Responsibility Principle
+* https://youtu.be/Gt0M_OHKhQE
+
 "Uncle" Bob Martin - "The Future of Programming"
 * https://youtu.be/ecIWPzGEbFc
 
