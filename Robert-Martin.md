@@ -1,3 +1,6 @@
+GOTO 2017 • The Scribe's Oath • Robert "Uncle Bob" Martin
+* https://youtu.be/Tng6Fox8EfI
+
 Robert C Martin - The Single Responsibility Principle
 * https://youtu.be/Gt0M_OHKhQE
 
